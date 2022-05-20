@@ -1,0 +1,1 @@
+﻿INSERT INTO dbo.NoteAttributes (NoteId, AttributeId) VALUES 
